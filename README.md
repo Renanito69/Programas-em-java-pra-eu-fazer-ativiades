@@ -2,7 +2,7 @@
 
 | Nº | Desafio                  | Descrição                                        | Dificuldade | Status    |
 | -: | ------------------------ | ------------------------------------------------ | ----------- | --------- |
-|  1 | Olá Mundo Interativo     | Ler nome e idade e exibir mensagem personalizada | ⭐ Fácil     | Em espera |
+|  1 | Olá Mundo Interativo     | Ler nome e idade e exibir mensagem personalizada | ⭐ Fácil     | **Concluido ✔** |
 |  2 | Calculadora Simples      | Operações básicas usando métodos                 | ⭐ Fácil     | Em espera |
 |  3 | Verificador de Número    | Par/ímpar e positivo/negativo                    | ⭐ Fácil     | Em espera |
 |  4 | Tabuada                  | Exibir tabuada de um número                      | ⭐ Fácil     | Em espera |
